@@ -1,4 +1,4 @@
-baseurl: https://iliumarrives.com
+#baseurl: https://iliumarrives.com
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 3
@@ -153,15 +153,15 @@ params:
     widgets:
         homepage:
             - type: search
-#            - type: archives
-#              params:
-#                  limit: 5
-#            - type: categories
-#              params:
-#                  limit: 10
-#            - type: tag-cloud
-#              params:
-#                  limit: 10
+            - type: archives
+              params:
+                  limit: 5
+            - type: categories
+              params:
+                  limit: 10
+            - type: tag-cloud
+              params:
+                  limit: 10
         page:
             - type: toc
 

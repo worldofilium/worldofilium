@@ -3,6 +3,8 @@ title: Terran Discovery of Ilium
 date: '2024-03-05'
 license: CC BY-NC-ND
 image: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Island_three_view_from_endcap.jpg"
+tags:
+- ilium
 ---
 
 The Terrans of Earth first detected the object that would come to be known as Ilium as anomalous output from an experimental solar system spanning network consisting of hundreds of space probes distributed throughout the inner and outer solar systems. It took the international effort of thousands of scientists, engineers, and support staff decades to build and launch the probes, slowly collect small, almost undetectable effects of gravity on smaller astronomical bodies such as asteroids or comets.

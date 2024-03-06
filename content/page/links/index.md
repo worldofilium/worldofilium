@@ -5,6 +5,8 @@ links:
     description: Transliterate English into the Shavian (Shaw) Alphabet.
     website: https://nwah.github.io/to-shavian/
     image: ts-logo-128.jpg
+  - title: Shawn Hermans
+    website: https://www.shawnhermans.com/
 menu:
     main: 
         weight: -50

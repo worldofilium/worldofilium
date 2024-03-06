@@ -14,6 +14,4 @@ menu:
             icon: user
 ---
 
-## Terran Discovery of Ilium 
-
-The World of Ilium is the creation of a unhinged mind. 
+𐑞 ·𐑢𐑼𐑮𐑤𐑛 𐑝 𐑦𐑤𐑰𐑩𐑥 𐑦𐑟 𐑞 𐑒𐑮𐑰𐑱𐑖𐑩𐑯 𐑝 𐑱 𐑩𐑯𐑣𐑦𐑯𐑡𐑛 𐑥𐑲𐑯𐑛.

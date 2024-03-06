@@ -1,5 +1,6 @@
 ---
 title: Etymology of the name Ilium
+author: "The Librarian"
 date: '2024-03-05'
 license: CC BY-NC-ND
 image: "https://upload.wikimedia.org/wikipedia/en/9/9c/Etymological_Relationships_Tree.png"

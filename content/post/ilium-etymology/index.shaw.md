@@ -1,5 +1,6 @@
 ---
 title: "𐑧𐑑𐑩𐑥𐑭𐑤𐑩𐑡𐑰 𐑝 𐑞 𐑯𐑱𐑥 𐑦𐑤𐑰𐑩𐑥"
+author: "𐑞 ·𐑤𐑲𐑚𐑮𐑧𐑮𐑰𐑩𐑯"
 date: '2024-03-05'
 license: CC BY-NC-ND
 image: "https://upload.wikimedia.org/wikipedia/en/9/9c/Etymological_Relationships_Tree.png"

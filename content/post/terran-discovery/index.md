@@ -1,5 +1,6 @@
 ---
 title: Terran Discovery of Ilium
+author: "The Librarian"
 date: '2024-03-05'
 license: CC BY-NC-ND
 image: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Artist%27s_impression_of_%CA%BBOumuamua.jpg"

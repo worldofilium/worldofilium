@@ -1,5 +1,6 @@
 ---
 title: "·𐑑𐑧𐑮𐑦𐑯 𐑛𐑦𐑕𐑒𐑳𐑝𐑩𐑮𐑰 𐑝 ·𐑦𐑤𐑰𐑩𐑥"
+author: "𐑞 ·𐑤𐑲𐑚𐑮𐑧𐑮𐑰𐑩𐑯"
 date: '2024-03-05'
 license: CC BY-NC-ND
 image: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Artist%27s_impression_of_%CA%BBOumuamua.jpg"
